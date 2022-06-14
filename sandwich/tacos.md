@@ -1,0 +1,4 @@
+- Viande de veau
+- Salade
+- Tomate
+- Frites
